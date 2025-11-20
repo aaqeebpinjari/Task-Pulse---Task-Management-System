@@ -14,7 +14,7 @@ Task Pulse is a full-stack task management system built with the MERN stack. It 
 - **Backend**: Node.js, Express 5, MongoDB/Mongoose, JWT,  express-validator, Socket.IO, dotenv, cors.
 - **Frontend**: Vite (React + TypeScript), React Router v7, Context API + hooks, Axios, Socket.IO client.
 
-## Live link : https://task-pulse-task-management-system.vercel.app/
+## Live link : https://task-pulse-task-management-system.vercel.app/login
 ### Note Allow Notification while login or creating new account 
     sample account : email: aksar123@gmail.com
                      password: aksar@1234
